@@ -7,7 +7,7 @@
   - [DWA Mobile App Front-End](https://github.com/davidehibello/DWA-Mobile-APP) 
   - [DWA Mobile App Back-End](https://github.com/davidehibello/DWA-Mobile-APP-Backend)
     
-- <b>Full Stack Bucket-List Website(Javascript, PHP, CSS, HTML)</b>
+- <b>Full Stack Bucket-List Website(Javascript, PHP, SQL, CSS, HTML)</b>
   - [Bucket List Website](https://github.com/davidehibello/Bucket_List) 
 
 <!--
