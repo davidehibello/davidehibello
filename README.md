@@ -3,13 +3,18 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Full Stack Web App for Durham Workforce Authority (React-native, Node.js, MongoDB, ExpressJS)</b>
+  - [DWA Mobile App Front-End](https://github.com/davidehibello/DWA-Mobile-APP) 
+  - [DWA Mobile App Back-End](https://github.com/davidehibello/DWA-Mobile-APP-Backend)
+    
+- <b>Full Stack Bucket-List Website(Javascript, PHP, CSS, HTML)</b>
+  - [Bucket List Website](https://github.com/davidehibello/Bucket_List) 
 
+<!--
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
+-->
 
 <h2> 🤳 Connect with me:</h2>
 
