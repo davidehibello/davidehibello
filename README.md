@@ -1,13 +1,16 @@
 <h1>Hi, I'm David!<br/><a href="https://github.com/davidehibello"> GenAI & Software Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-<h3> GenAI Projects:</h3>
+<h3> AI Projects:</h3>
 
 - <b>Generative AI Document Assistant (Python, Gemini LLM, LlamaIndex, HuggingFace, PyMuPDF, BM25, ChromaDB)</b>
   - [GenAI Document Assistant](https://github.com/davidehibello/GenAI-Document-Assistant) 
 
 - <b>Gemini Llamaindex chatbot(Gemini LLM, LlamaIndex, Python)</b>
-  - [Gemini Chatbot](https://github.com/davidehibello/Gemini-Llamaindex-Chatbot) 
+  - [Gemini Chatbot](https://github.com/davidehibello/Gemini-Llamaindex-Chatbot)
+
+ - <b>OCR Engine Benchmarking (Python, OpenCV, Tesseract, PaddleOCR, EasyOCR, PyMuPDF)</b>
+   - [OCR Engine Comparison](https://github.com/davidehibello/OCR-Engine-Comparison)
 
 <h3>Full Stack Projects:</h3>
 
