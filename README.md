@@ -6,9 +6,9 @@
 - <b>Generative AI Document Assistant (Python, Gemini LLM, LlamaIndex, HuggingFace, PyMuPDF, BM25, ChromaDB)</b>
   - [GenAI Document Assistant](https://github.com/davidehibello/GenAI-Document-Assistant) 
 
-- <b>Llamaindex chatbot(Gemini LLM, LlamaIndex, Python)</b>
-<!--  - [Bucket List Website](https://github.com/davidehibello/Bucket_List) 
--->
+- <b>Gemini Llamaindex chatbot(Gemini LLM, LlamaIndex, Python)</b>
+  - [Gemini Chatbot](https://github.com/davidehibello/Gemini-Llamaindex-Chatbot) 
+
 <h3>Full Stack Projects:</h3>
 
 
