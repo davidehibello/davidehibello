@@ -1,11 +1,11 @@
-<h1>Hi, I'm David!<br/><a href="https://github.com/davidehibello"> Software Developer</a></h1>
+<h1>Hi, I'm David!<br/><a href="https://github.com/davidehibello"> GenAI & Software Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <h3> GenAI Projects:</h3>
 
 - <b>Generative AI Document Assistant (Python, Gemini LLM, LlamaIndex, HuggingFace, PyMuPDF, BM25, ChromaDB)</b>
-<!--  - [DWA Mobile App Front-End](https://github.com/davidehibello/DWA-Mobile-APP) 
--->
+  - [GenAI Document Assistant](https://github.com/davidehibello/GenAI-Document-Assistant) 
+
 - <b>Llamaindex chatbot(Gemini LLM, LlamaIndex, Python)</b>
 <!--  - [Bucket List Website](https://github.com/davidehibello/Bucket_List) 
 -->
