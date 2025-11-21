@@ -3,6 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 <h3> AI Projects:</h3>
 
+- <b>RAG Mortgage Assistant (Python, Mistral-7B, Phi-2, LlamaIndex, HuggingFace, PyMuPDF, LlamaCPP, Gradio)</b>
+  - [RAG Mortgage Assistant](https://github.com/davidehibello/RAG-Mortgage-Assistant) 
+
 - <b>Generative AI Document Assistant (Python, Gemini LLM, LlamaIndex, HuggingFace, PyMuPDF, BM25, ChromaDB)</b>
   - [GenAI Document Assistant](https://github.com/davidehibello/GenAI-Document-Assistant) 
 
