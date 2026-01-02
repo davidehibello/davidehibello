@@ -1,4 +1,4 @@
-<h1>Hi, I'm David!<br/><a href="https://github.com/davidehibello"> GenAI & Software Developer</a></h1>
+<h1>Hi, I'm David!<br/><a href="https://github.com/davidehibello">Software Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <h3> AI Projects:</h3>
