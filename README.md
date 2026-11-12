@@ -9,11 +9,11 @@
 
 <h2>Built Projects</h2>
 <ul>
-  <li><a href="https://github.com/davidehibello/RAG-Mortgage-Assistant">RAG Mortgage Assistant</a></li>
-  <li><a href="https://github.com/davidehibello/GenAI-Document-Assistant">GenAI Document Assistant</a></li>
-  <li><a href="https://github.com/davidehibello/DWA-Mobile-APP">DWA Mobile App Front-End</a></li>
-  <li><a href="https://github.com/davidehibello/DWA-Mobile-APP-Backend">DWA Mobile App Back-End</a></li>
-  <li><a href="https://github.com/davidehibello/OCR-Engine-Comparison">OCR Engine Comparison</a></li>
+  <li><a href="https://github.com/davidehibello/RAG-Mortgage-Assistant">RAG Mortgage Assistant</a>: An AI-powered mortgage document assistant that uses retrieval-augmented generation to extract information, retrieve relevant context, and answer questions from complex financial documents. </li>
+  <li><a href="https://github.com/davidehibello/GenAI-Document-Assistant">GenAI Document Assistant</a>: A generative AI application that combines semantic search, keyword retrieval, and LLM reasoning to answer questions from complex PDF documents.</li>
+  <li><a href="https://github.com/davidehibello/DWA-Mobile-APP">DWA Mobile App Front-End</a>: A React Native mobile application that connects job seekers with employment opportunities through job discovery, career resources, interactive features, and personalized insights.</li>
+  <li><a href="https://github.com/davidehibello/DWA-Mobile-APP-Backend">DWA Mobile App Back-End</a>: A Node.js and Express backend providing authentication, job retrieval, user profile management, and API services for the DWA mobile application.</li>
+  <li><a href="https://github.com/davidehibello/OCR-Engine-Comparison">OCR Engine Comparison</a>: An evaluation project comparing OCR engines for text extraction accuracy and performance across document-processing tasks.</li>
 </ul>
 
 <!--
