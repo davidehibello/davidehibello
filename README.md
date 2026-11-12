@@ -1,6 +1,23 @@
-<h1>Hi, I'm David!<br/><a href="https://github.com/davidehibello">Software Developer</a></h1>
+<h1>David Ehi-Bello</h1>
+<p> I design and build digital experiences that feel intuitive, purposeful, and human, combining design thinking with a strong engineering foundation.</p>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<p>- I’m currently working on Archief- A new age fashion Social media Platform</p>
+<p>- Portfolio Website: <a href="https://davidehibello.com">davidehibello</a></p>
+
+<h2>Contact</h2>
+<p><a href="https://www.linkedin.com/in/davidehibello/">LinkedIn</a></p>
+
+<h2>Built Projects</h2>
+<ul>
+  <li><a href="https://github.com/davidehibello/RAG-Mortgage-Assistant">RAG Mortgage Assistant</a></li>
+  <li><a href="https://github.com/davidehibello/GenAI-Document-Assistant">GenAI Document Assistant</a></li>
+  <li><a href="https://github.com/davidehibello/DWA-Mobile-APP">DWA Mobile App Front-End</a></li>
+  <li><a href="https://github.com/davidehibello/DWA-Mobile-APP-Backend">DWA Mobile App Back-End</a></li>
+  <li><a href="https://github.com/davidehibello/OCR-Engine-Comparison">OCR Engine Comparison</a></li>
+</ul>
+
+<!--
+<h2>Software Development Projects:</h2>
 <h3> AI Projects:</h3>
 
 - <b>RAG Mortgage Assistant (Python, Mistral-7B, Phi-2, LlamaIndex, HuggingFace, PyMuPDF, LlamaCPP, Gradio)</b>
@@ -25,11 +42,13 @@
 - <b>Full Stack Bucket-List Website(Javascript, PHP, SQL, CSS, HTML)</b>
   - [Bucket List Website](https://github.com/davidehibello/Bucket_List) 
 
+  -->
+
 <!--
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
--->
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -39,6 +58,8 @@
 
 
 [linkedin]: https://linkedin.com/in/davidehibello
+
+-->
 
 ### 💻 Languages
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css)](https://skillicons.dev)
