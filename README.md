@@ -61,8 +61,8 @@
 
 -->
 
-### 💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css)](https://skillicons.dev)
+###  Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,angular,nodejs,express,fastapi,spring,tensorflow,pytorch,mongodb,mysql,postgres,aws,docker,kubernetes,linux,git,github,vscode,postman,githubactions)](https://skillicons.dev)
 
 
 <!--
